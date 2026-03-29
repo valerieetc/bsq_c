@@ -2,7 +2,7 @@
 ***
 
 ## Description
-The program finds the biggest square on a map consisting of free spaces '.' and obstacles 'o'.
+The program finds the biggest square on a square map consisting of free spaces '.' and obstacles 'o'.
 When the biggest square is found, the map gets printed with the square filled in with 'x'.
 The biggest square calculation uses the principles of dynamic programming that ensures that nothing 
 gets calculated twice.
